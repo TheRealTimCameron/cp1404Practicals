@@ -109,7 +109,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-11" />
     <option name="width" value="1940" />
     <option name="height" value="2124" />
@@ -321,7 +321,7 @@
       <workItem from="1553140149810" duration="8000" />
       <workItem from="1553140207475" duration="89000" />
       <workItem from="1553140340050" duration="28000" />
-      <workItem from="1553141001026" duration="507000" />
+      <workItem from="1553141001026" duration="773000" />
     </task>
     <task id="LOCAL-00001" summary="Refactored password program">
       <created>1534394862413</created>
@@ -334,7 +334,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2478000" />
+    <option name="totallyTimeSpent" value="2744000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1293" height="1416" extended-state="1" />

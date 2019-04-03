@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bbceac1-8564-4023-bd29-429abc579649" name="Default Changelist" comment="Added adjusted week 1 programs to use functions">
-      <change afterPath="$PROJECT_DIR$/../prac_04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prac_04/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prac_04/total_income.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../prac_02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../prac_02/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/password_entry.py" beforeDir="false" afterPath="$PROJECT_DIR$/password_entry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temperatures.py" beforeDir="false" afterPath="$PROJECT_DIR$/temperatures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac_04/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../prac_04/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac_04/.idea/prac_04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../prac_04/.idea/prac_04.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac_04/lists_warmup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../prac_04/lists_warmup.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,17 +19,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/prac_03$password_entry.coverage" NAME="password_entry Coverage Results" MODIFIED="1553142939390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/prac_03$temperatures.coverage" NAME="temperatures Coverage Results" MODIFIED="1553142999644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/prac_03$broken_score.coverage" NAME="broken_score Coverage Results" MODIFIED="1553143344192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prac_03$password_entry.coverage" NAME="password_entry Coverage Results" MODIFIED="1553743733425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prac_03$temperatures.coverage" NAME="temperatures Coverage Results" MODIFIED="1553743564418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prac_03$broken_score.coverage" NAME="broken_score Coverage Results" MODIFIED="1553743557291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/password_entry.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -31,17 +37,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/broken_score.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="221">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/temperatures.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+            <state relative-caret-position="425">
+              <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -54,9 +60,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/password_entry.py" />
-        <option value="$PROJECT_DIR$/temperatures.py" />
         <option value="$PROJECT_DIR$/broken_score.py" />
+        <option value="$PROJECT_DIR$/temperatures.py" />
+        <option value="$PROJECT_DIR$/password_entry.py" />
       </list>
     </option>
   </component>
@@ -104,7 +110,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.broken_score">
+  <component name="RunManager" selected="Python.password_entry">
     <configuration name="broken_score" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="prac_03" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,9 +184,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.broken_score" />
-        <item itemvalue="Python.temperatures" />
         <item itemvalue="Python.password_entry" />
+        <item itemvalue="Python.temperatures" />
+        <item itemvalue="Python.broken_score" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +202,7 @@
       <updated>1553141030452</updated>
       <workItem from="1553141031727" duration="775000" />
       <workItem from="1553142224331" duration="1379000" />
-      <workItem from="1553741922497" duration="320000" />
+      <workItem from="1553741922497" duration="2017000" />
     </task>
     <task id="LOCAL-00001" summary="Add password check program">
       <created>1553141105769</created>
@@ -223,7 +229,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2474000" />
+    <option name="totallyTimeSpent" value="4171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1293" height="1416" extended-state="0" />
@@ -240,7 +246,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.15264797" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.15264797" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
@@ -302,24 +308,24 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added adjusted week 1 programs to use functions" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/password_entry.py">
+    <entry file="file://$PROJECT_DIR$/temperatures.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        <state relative-caret-position="425">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/broken_score.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="221">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temperatures.py">
+    <entry file="file://$PROJECT_DIR$/password_entry.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

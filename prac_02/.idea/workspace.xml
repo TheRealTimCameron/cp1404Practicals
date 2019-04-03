@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25b5d197-14bd-4b79-829a-e700350a29a9" name="Default Changelist" comment="Refactored password program">
-      <change beforePath="$PROJECT_DIR$/capitalist_conrad.py" beforeDir="false" afterPath="$PROJECT_DIR$/capitalist_conrad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -321,7 +321,7 @@
       <workItem from="1553140149810" duration="8000" />
       <workItem from="1553140207475" duration="89000" />
       <workItem from="1553140340050" duration="28000" />
-      <workItem from="1553141001026" duration="773000" />
+      <workItem from="1553141001026" duration="998000" />
     </task>
     <task id="LOCAL-00001" summary="Refactored password program">
       <created>1534394862413</created>
@@ -334,10 +334,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2744000" />
+    <option name="totallyTimeSpent" value="2969000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1293" height="1416" extended-state="1" />
+    <frame x="-7" y="0" width="1293" height="1416" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24817519" />

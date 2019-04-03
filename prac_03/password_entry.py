@@ -1,5 +1,4 @@
 def main():
-
     password = get_password()
     for l in password:
         print_asterisks()

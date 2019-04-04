@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0fefce8-485d-424f-b89a-79f6098545ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../prac_04/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prac_05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/state_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word_occurrences.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../prac_03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../prac_03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../prac_04/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../prac_04/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../prac_04/.idea/prac_04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../prac_04/.idea/prac_04.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../prac_04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../prac_04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../prac_04/list_comprehensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../prac_04/list_comprehensions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../prac_04/list_exercises.py" beforeDir="false" afterPath="$PROJECT_DIR$/../prac_04/list_exercises.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../prac_04/lists_warmup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../prac_04/lists_warmup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../prac_04/quick_picks.py" beforeDir="false" afterPath="$PROJECT_DIR$/../prac_04/quick_picks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../prac_04/total_income.py" beforeDir="false" afterPath="$PROJECT_DIR$/../prac_04/total_income.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prac_04/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

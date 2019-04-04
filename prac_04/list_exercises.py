@@ -12,10 +12,7 @@ print("The average of the numbers is {}".format(sum(numbers) / len(numbers)))
 # No.2 Woefully inadequate security checker
 usernames = ['jimbo', 'giltson98', 'derekf', 'WhatSup', 'NicolEye', 'swei45', 'BaseInterpreterInterface', 'BaseStdIn', 'Command', 'ExecState', 'InteractiveConsole', 'InterpreterInterface', 'StartServer', 'bob']
 given_username = input("Username: ")
-while given_username != usernames:
-    if given_username in usernames:
-        print("Access granted")
-        break
-    else:
-        print("Access denied")
-        given_username = input("Username: ")
+if given_username in usernames:
+    print("Access granted")
+else:
+    print("Access denied")

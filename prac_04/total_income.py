@@ -15,6 +15,7 @@ def main():
 
     print_income_report(incomes, total_months)
 
+
 def print_income_report(incomes, total_months):
     print("\nIncome Report\n-------------")
     total = 0

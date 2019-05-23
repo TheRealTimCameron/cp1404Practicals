@@ -20,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/prac_05/state_names.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
-              <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -58,8 +58,8 @@
         <option value="$PROJECT_DIR$/prac_04/quick_picks.py" />
         <option value="$PROJECT_DIR$/prac_04/.gitignore" />
         <option value="$PROJECT_DIR$/prac_05/hex_colours.py" />
-        <option value="$PROJECT_DIR$/prac_05/state_names.py" />
         <option value="$PROJECT_DIR$/prac_05/word_occurrences.py" />
+        <option value="$PROJECT_DIR$/prac_05/state_names.py" />
       </list>
     </option>
   </component>
@@ -89,6 +89,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -219,7 +220,7 @@
       <workItem from="1553141812567" duration="384000" />
       <workItem from="1554351559820" duration="1405000" />
       <workItem from="1554945282483" duration="3415000" />
-      <workItem from="1557981346137" duration="192000" />
+      <workItem from="1557981346137" duration="344000" />
     </task>
     <task id="LOCAL-00001" summary="Initial practical folder upload">
       <created>1553140530787</created>
@@ -263,11 +264,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554945592962</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated for partner part in prac_05">
+      <created>1557981654760</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557981654760</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6065000" />
+    <option name="totallyTimeSpent" value="6217000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -432,7 +440,7 @@
     <entry file="file://$PROJECT_DIR$/prac_05/state_names.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
